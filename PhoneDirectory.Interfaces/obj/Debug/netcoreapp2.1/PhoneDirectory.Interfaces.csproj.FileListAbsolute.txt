@@ -1,0 +1,9 @@
+C:\Users\DELL\source\repos\PhoneDirectory\PhoneDirectory.Interfaces\bin\Debug\netcoreapp2.1\PhoneDirectory.Interfaces.deps.json
+C:\Users\DELL\source\repos\PhoneDirectory\PhoneDirectory.Interfaces\bin\Debug\netcoreapp2.1\PhoneDirectory.Interfaces.dll
+C:\Users\DELL\source\repos\PhoneDirectory\PhoneDirectory.Interfaces\bin\Debug\netcoreapp2.1\PhoneDirectory.Interfaces.pdb
+C:\Users\DELL\source\repos\PhoneDirectory\PhoneDirectory.Interfaces\obj\Debug\netcoreapp2.1\PhoneDirectory.Interfaces.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\PhoneDirectory\PhoneDirectory.Interfaces\obj\Debug\netcoreapp2.1\PhoneDirectory.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\PhoneDirectory\PhoneDirectory.Interfaces\obj\Debug\netcoreapp2.1\PhoneDirectory.Interfaces.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\PhoneDirectory\PhoneDirectory.Interfaces\obj\Debug\netcoreapp2.1\PhoneDirectory.Interfaces.AssemblyInfo.cs
+C:\Users\DELL\source\repos\PhoneDirectory\PhoneDirectory.Interfaces\obj\Debug\netcoreapp2.1\PhoneDirectory.Interfaces.dll
+C:\Users\DELL\source\repos\PhoneDirectory\PhoneDirectory.Interfaces\obj\Debug\netcoreapp2.1\PhoneDirectory.Interfaces.pdb

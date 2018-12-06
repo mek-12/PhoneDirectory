@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>D:\Projects\Web\CATELEFONREHBERI\CATELEFONREHBERI.DAL\bin\Debug\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>D:\Projects\Web\CATELEFONREHBERI\CATELEFONREHBERI.DAL\bin\Debug\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Identity.Core">
+      <HintPath>D:\Projects\Web\CATELEFONREHBERI\CATELEFONREHBERI.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Identity.EntityFramework">
+      <HintPath>D:\Projects\Web\CATELEFONREHBERI\CATELEFONREHBERI.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PhoneDirectory.Entities\PhoneDirectory.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

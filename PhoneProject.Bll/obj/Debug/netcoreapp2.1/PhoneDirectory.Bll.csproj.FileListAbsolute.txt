@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\PhoneDirectory\PhoneProject.Bll\bin\Debug\netcoreapp2.1\PhoneDirectory.Bll.deps.json
+C:\Users\DELL\source\repos\PhoneDirectory\PhoneProject.Bll\bin\Debug\netcoreapp2.1\PhoneDirectory.Bll.dll
+C:\Users\DELL\source\repos\PhoneDirectory\PhoneProject.Bll\bin\Debug\netcoreapp2.1\PhoneDirectory.Bll.pdb
+C:\Users\DELL\source\repos\PhoneDirectory\PhoneProject.Bll\obj\Debug\netcoreapp2.1\PhoneDirectory.Bll.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\PhoneDirectory\PhoneProject.Bll\obj\Debug\netcoreapp2.1\PhoneDirectory.Bll.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\PhoneDirectory\PhoneProject.Bll\obj\Debug\netcoreapp2.1\PhoneDirectory.Bll.AssemblyInfo.cs
+C:\Users\DELL\source\repos\PhoneDirectory\PhoneProject.Bll\obj\Debug\netcoreapp2.1\PhoneDirectory.Bll.dll
+C:\Users\DELL\source\repos\PhoneDirectory\PhoneProject.Bll\obj\Debug\netcoreapp2.1\PhoneDirectory.Bll.pdb
+D:\Projects\Web\PhoneDirectory\PhoneProject.Bll\obj\Debug\netcoreapp2.1\PhoneDirectory.Bll.csprojAssemblyReference.cache
+D:\Projects\Web\PhoneDirectory\PhoneProject.Bll\obj\Debug\netcoreapp2.1\PhoneDirectory.Bll.csproj.CoreCompileInputs.cache
+D:\Projects\Web\PhoneDirectory\PhoneProject.Bll\obj\Debug\netcoreapp2.1\PhoneDirectory.Bll.AssemblyInfoInputs.cache
+D:\Projects\Web\PhoneDirectory\PhoneProject.Bll\obj\Debug\netcoreapp2.1\PhoneDirectory.Bll.AssemblyInfo.cs
+D:\Projects\Web\PhoneDirectory\PhoneProject.Bll\obj\Debug\netcoreapp2.1\PhoneDirectory.Bll.dll
+D:\Projects\Web\PhoneDirectory\PhoneProject.Bll\obj\Debug\netcoreapp2.1\PhoneDirectory.Bll.pdb
